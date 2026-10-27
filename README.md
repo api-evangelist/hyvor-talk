@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hyvor Talk is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://hyvor.com/talk
+Hyvor Talk provides a privacy‑focused, fully‑featured commenting platform that enables websites, blogs, newsrooms, and enterprises to add interactive discussions, reactions, and ratings. The service supports easy integration with WordPress, Ghost, Wix, Squarespace, and other platforms, offering built‑in spam detection, no ads, and customizable moderation tools. Over 10,000 businesses and individual creators use Hyvor Talk to build community, increase engagement, and gather audience feedback across multiple languages.
+
+**Areas:** comments · platform · SaaS · engagement · privacy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hyvor.com/talk)
+- [Documentation](https://hyvor.com/talk/docs)
+- [Pricing](https://hyvor.com/talk/pricing)
+- [Support](https://hyvor.com/support)
+- [Blog](https://hyvor.com/blog)
+- [Security](https://hyvor.com/security)
+- [Compliance](https://hyvor.com/security)
+- [Terms of service](https://hyvor.com/talk/terms)
+- [Privacy policy](https://hyvor.com/talk/privacy)
+- [GitHub](https://github.com/hyvor)
+- [Status](https://status.hyvor.com)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/hyvor-talk/](https://apis.io/providers/hyvor-talk/).
